@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">MI PORTAFOLIO</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center">
+  <strong>Desarrolladora FullStack | Negociadora Internacional</strong>
+</p>
 
-In the project directory, you can run:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a> •
+  <a href="mailto:saramarulanda12@gmail.com">Email</a>
+</p>
 
-### `npm start`
+<p align="center">
+<span style="color: #33ff57">💻 Este es mi portfolio, mi espacio, aquí encontrarás un resumen de cada uno de mis proyectos.🚀</span> 
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+  ¡Conecta conmigo en <a href="https://www.linkedin.com/in/sara-marulanda" style="color: #ff5733">LinkedIn</a>!
+</p>
 
-### `npm test`
+<p align="center">
+  O envíame un mensaje a: <span style="color: #33ff57;">saramarulanda12@gmail.com</span>
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center">
+  ¡Feliz de sumarme al mundo de la tecnología con mi experiencia previa y habilidades! ✔️✔️✔️
+</p>
 
-### `npm run build`
+<div align="center">
+    <img src="https://via.placeholder.com/900x10/FDFEFE/FDFEFE ">
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align="center">
+    <img src="https://via.placeholder.com/900x10/D7BDE2 /D7BDE2 ">
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="center">
+    <img src="https://via.placeholder.com/900x10/FDFEFE/FDFEFE ">
+</div>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1 align="center">My PORTFOLIO</h1>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="center">
+  <strong>Full Stack Developer | International Negotiator</strong>
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sara-marulanda">LinkedIn</a> •
+  <a href="mailto:saramarulanda12@gmail.com">Email</a>
+</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+<span style="color: #33ff57">💻 This is my portfolio, my space, here you will find a summary of each of my projects.🚀</span> 
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<p align="center">
+  ¡Connect with me at <a href="https://www.linkedin.com/in/sara-marulanda" style="color: #ff5733">LinkedIn</a>!
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="center">
+  Or send me a message at: <span style="color: #33ff57;">saramarulanda12@gmail.com</span>
+</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  ¡Happy to join the world of technology with my previous experience and skills! ✔️✔️✔️
+</p>
