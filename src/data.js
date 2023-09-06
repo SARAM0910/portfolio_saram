@@ -1,7 +1,7 @@
-import wabderlust from "./src/Assets/HOMEWANDERLUST.PNG"
-import videogames from "./src/Assets/Videogames.PNG"
+import wabderlust from "./Assets/HOMEWANDERLUST.PNG"
+import videogames from "./Assets/Videogames.PNG"
 
-const projects=[
+export const projects=[
     {
         name:"WANDERLUST",
         date:"AGOSTO 2023",
@@ -23,4 +23,5 @@ const projects=[
         video:""
     }
 ]
+
 
