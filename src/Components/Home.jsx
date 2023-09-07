@@ -46,7 +46,7 @@ function Home() {
           <h2>¿Listo para comenzar un proyecto?</h2>
 
           <div>
-          Contáctame para que podamos  hablar de tus necesidades y objetivos.
+          Contáctame para que podamos hablar de tus necesidades y objetivos.
 
 <a href="#" onClick={abrirCorreo}>
   <AiOutlineMail/>
