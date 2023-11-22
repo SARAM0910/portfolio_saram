@@ -2,13 +2,15 @@ import React from "react";
 import {CiLinkedin} from "react-icons/ci"
 import {AiFillGithub} from "react-icons/ai"
 import {AiOutlineInstagram} from "react-icons/ai"
+import { useTranslation } from "react-i18next";
 
 
 function Footer (){
+  const { i18n, t } = useTranslation("global");
     return(
         <div>
 <div>
-  <h2>Desarrollado con React por </h2>
+  <h2>{t("footer.note")} </h2>
   <h2>© Sara Marulanda </h2>
 </div>
 

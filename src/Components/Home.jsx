@@ -4,12 +4,14 @@ import {CiLinkedin} from "react-icons/ci"
 import {AiFillGithub} from "react-icons/ai"
 import {AiOutlineInstagram} from "react-icons/ai"
 import {AiOutlineMail} from "react-icons/ai"
+import { useTranslation } from "react-i18next";
 
 function Home() {
+  const { i18n, t } = useTranslation("global");
 
     const abrirCorreo = () => {
         const correo = 'saramarulanda12@gmail.com';
-        const asunto = 'PROPUESTA DE COLABORACION // COLLABORATION PROPOSAL ';
+        const asunto = t("home.home_email_subject");
         const cuerpo = '';
     
         window.location.href = `mailto:${correo}?subject=${encodeURIComponent(asunto)}&body=${encodeURIComponent(cuerpo)}`;
@@ -19,34 +21,28 @@ function Home() {
     <div>
       <section id="home">
         <div>
-          <h1>HOLA! Bienvenido a mi espacio digital </h1>
+          <h1>{t("home.home_greeting")}</h1>
         </div>
 
         <div>
-          <h1>Soy Sara Marulanda</h1>
+          <h1>{t("home.home_name")}</h1>
         </div>
 
         <div>
           <h2>
-            soy una desarrolladora Web Apasionada y Creativa ubicada en Medellin,
-            Colombia
+          {t("home.home_description")}
             </h2>
             <div>
-            <div>
-    desarrolladora Web
-</div>
-<div>
-    Negociadora internacional 
-</div>
+   
 
             </div>
 
         </div>
 
-          <h2>¿Listo para comenzar un proyecto?</h2>
+          <h2>{t("home.home_ready")}</h2>
 
           <div>
-          Contáctame para que podamos hablar de tus necesidades y objetivos.
+          {t("home.home_contact")}
 
 <a href="#" onClick={abrirCorreo}>
   <AiOutlineMail/>

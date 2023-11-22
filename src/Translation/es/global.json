@@ -1,0 +1,67 @@
+{
+
+  "navbar":{
+    "op1": "Inicio",
+        "op2": "Yo",
+        "op3": "Proyectos",
+        "op4": "Habilidades",
+        "op5": "Contacto"
+  },
+
+    "home":{
+ "home_greeting": "¡HOLA! Bienvenido a mi espacio digital",
+  "home_name": "Soy Sara Marulanda",
+  "home_description": "Soy una desarrolladora web apasionada y creativa con sede en Medellín, Colombia",
+  "home_ready": "¿Listo para comenzar un proyecto?",
+  "home_contact": "Contáctame para que podamos hablar de tus necesidades y objetivos.",
+  "home_email_subject": "PROPUESTA DE COLABORACION"
+    },
+
+    "about":{
+      "about_name":"Sara Marulanda",
+      "about_description": "Transformar líneas de código en experiencias digitales memorables es mi motivación, mi objetivo y mi profesión. Mi experiencia previa en el mundo de la tecnología, combinada con la que tengo ahora en el desarrollo web, me ha permitido trabajar en una variedad de proyectos emocionantes que puedes ver en este espacio.",
+      "about_name1":"Full Stack Web Developer",
+      "about_desciption1":"Desarrolladora Full Stack con dominio de tecnologías front-end como:  React, Redux, HTML5, CSS3+ y Tailwind. En el mundo del back-end, cuento con un sólido conjunto de habilidades en Node.js, JavaScript, PosgresSQL.",
+      "about_name2":"Profesional en negocios internacionales",
+      "about_desciption2":"Profesional de negocios intercacionales con dominion de comercio exterior, abastecimiento y cadena de suministro."
+
+    },
+
+    "projects": {
+      "project1": {
+        "name": "WANDERLUST",
+        "date": "AUGUST 2023",
+        "description": "Este proyecto conecta a los usuarios dependiendo de su perfil con paquetes de viaje y actividades turísticas al rededor del mundo, comentarios y reviews o los datos de ventas, usuarios registrados, paquetes ofertados o edición de los existentes.",
+        "technologies": ["React", "Redux", "TailwindCSS", "HTML5", "Firebase", "PostgreSQL", "Sequelize", "Express", "Cloudinary", "Nodemailer", "Axios", "Vercel", "Railway"],
+        "deploy": "https://wanderlust-8.vercel.app/home",
+        "repository": "https://github.com/Wanderlust-8/wanderlust",
+        "video": "https://www.youtube.com/watch?v=zCYnhixTC0c"
+      },
+      "project2": {
+        "name": "VIDEOGAMES",
+        "date": "JULY 2023",
+        "description": "Aplicación que tenía como objetivo conectar una API externa https://api.rawg.io/api/games para que se puedan renderizar, paginar, filtrar y buscar diferentes videojuegos, así como crear sus propios juegos agregándolos a nuestra base de datos en Postgrest.",
+        "technologies": ["JavaScript", "React", "Redux", "CSS3", "NodeJS", "Express", "PostgreSQL"],
+        "deploy": "",
+        "repository": "https://github.com/SARAM0910/PI-Videogames-main",
+        "video": ""
+      },
+      "video":"Ver video",
+      "repository":"Repositorio",
+      "see":"Ver en vivo"
+    },
+    "skills":{
+      "skill":"Mis habilidades"
+    },
+  "certificates":{
+    "certificates":"Mis certificados"
+  },
+  "contact":{
+    "question":"¿Interesado en trabajar juntos?",
+    "call":"Contáctame"
+  },
+  "footer":{
+    "note":"Desarrollado con React por"
+  }
+  
+}

@@ -1,9 +1,12 @@
 import React from "react";
 import {AiOutlineMail,AiOutlineWhatsApp,AiFillGithub} from "react-icons/ai"
 import {CiLinkedin} from "react-icons/ci"
+import { useTranslation } from "react-i18next";
 
 
 function Contact (){
+  
+  const { i18n, t } = useTranslation("global");
 
     const abrirCorreo = () => {
         const correo = 'saramarulanda12@gmail.com';
@@ -16,8 +19,8 @@ function Contact (){
         <section id="contact">
         <div>
         <div>
-            <h1>¿Interesado en trabajar juntos?</h1>
-            <h1>Contáctame</h1>
+            <h1>{t("contact.question")}</h1>
+            <h1>{t("contact.call")}</h1>
 
             <div>
 <a href="#" onClick={abrirCorreo}>

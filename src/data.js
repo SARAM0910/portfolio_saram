@@ -4,18 +4,19 @@ import {DiJavascript1,DiReact,DiCss3Full,DiNodejsSmall,DiPostgresql} from "react
 import {SiRedux,SiTailwindcss} from "react-icons/si"
 import{AiOutlineHtml5} from "react-icons/ai"
 
-export const projects=[
-    {
+
+export const projects={
+    project1:{
         name:"WANDERLUST",
         date:"AGOSTO 2023",
         description:"Este proyecto conecta a los usuarios dependiendo de su perfil con paquetes de viaje y actividades turísticas al rededor del mundo, comentarios y reviews o los datos de ventas, usuarios registrados, paquetes ofertados o edición de los existentes.",
         tecnologies:["React", "Redux", "TailwindCSS", "HTML5", "Firebase", "PostgreSQL", "Sequelize", "Express", "Cloudinary", "Nodemailer", "Axios", "Vercel", "Railway"],
         image:wabderlust,
-        deploy:"https://wanderlust-phi.vercel.app",
+        deploy:"https://wanderlust-8.vercel.app/home",
         repository:"https://github.com/Wanderlust-8/wanderlust",
         video:"https://www.youtube.com/watch?v=zCYnhixTC0c"
     },
-    {
+    project2:{
         name:"VIDEOGAMES",
         date:"JULIO 2023",
         description:"Aplicación que tenía como objetivo conectar una API externa https://api.rawg.io/api/games para que se puedan renderizar, paginar, filtrar y buscar diferentes videojuegos, así como crear sus propios juegos agregándolos a nuestra base de datos en Postgrest.",
@@ -25,7 +26,7 @@ export const projects=[
         repository:"https://github.com/SARAM0910/PI-Videogames-main",
         video:""
     }
-]
+}
 
 export const skills=[
     {
